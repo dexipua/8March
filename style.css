@@ -1,3 +1,8 @@
 #grid{
     background-color: greenyellow;
+    display: grid;
+    grid-template-columns: auto 500px auto;
+}
+.FlowerLeft {
+    width: 100px;
 }
