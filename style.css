@@ -1,8 +1,10 @@
 #grid{
-    background-color: rgb(161 250 79);
     display: grid;
     grid-template-columns: auto 800px auto;
     width: 1500px;
+}
+body {
+    background-color: rgb(161 250 79);
 }
 #text {
     font-family: Arial, Helvetica, sans-serif;
