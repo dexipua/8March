@@ -1,5 +1,5 @@
 #grid{
-    background-color: greenyellow;
+    background-color: rgb(161 250 79);
     display: grid;
     grid-template-columns: auto 800px auto;
 }
