@@ -1,10 +1,10 @@
 #grid{
     background-color: greenyellow;
     display: grid;
-    grid-template-columns: auto 800px auto;
+    grid-template-columns: auto 500px auto;
 }
 .flowerLeft {
-    width: 150px;
+    width: 100px;
 }
 #text {
     font-family: Arial, Helvetica, sans-serif;
