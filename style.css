@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: auto 1000px auto;
 }
-.FlowerLeft {
+.flowerLeft {
     width: 150px;
 }
 #text {
