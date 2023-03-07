@@ -12,8 +12,8 @@ img {
     width: 200px;
 }
 .Left {
-    margin-right: 50px;
+    padding-right: 50px;
 }
 .Rigth {
-    margin-left: 50px;
+    padding-left: 50px;
 }
